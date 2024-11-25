@@ -7,7 +7,7 @@ Deep learning has achieved remarkable success in the medical domain, which makes
 #### Citation
 If our work is valuable to you, please cite our work:
 ```
-@inproceedings{yang2023ccnet,
+@inproceedings{yang2023ltgm,
   author={Yang, Ziyuan and Chen, Yingyu and Sun, Mengyu and Zhang, Yi},
   title={Inject Backdoor in Measured Data to Jeopardize Full-Stack Medical Image Analysis System},
   booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)},
