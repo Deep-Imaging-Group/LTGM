@@ -7,6 +7,14 @@ Deep learning has achieved remarkable success in the medical domain, which makes
 #### Requirement
 Please install [CTLib](https://github.com/xiawj-hub/CTLIB) at first.
 
+#### Correction
+The equation in our manuscript has a typo, the Eq.(4) should be as follows:
+$ H_k(i,j) =\left\{\begin{array}{ll}
+0, & \text{ if }G^k_{rec}(i,j)\geq med_k \\
+a/max_k, & \text{ if }G^k_{rec}(i,j)<med_k
+\end{array}, \right$
+where $max_k$ is the maximum value in $G^k_{rec}$.
+
 #### Citation
 If our work is valuable to you, please cite our work:
 ```
