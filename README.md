@@ -9,13 +9,13 @@ Please install [CTLib](https://github.com/xiawj-hub/CTLIB) at first.
 
 #### Correction
 The equation in our manuscript has a typo, the Eq.(4) should be as follows:
-$$
+$
 H_k(i,j) =
 \begin{cases}
 0, & \text{if } G^k_{\text{rec}}(i,j) \geq \text{med}_k \\
 \frac{a}{\text{max}_k}, & \text{if } G^k_{\text{rec}}(i,j) < \text{med}_k
 \end{cases}
-$$
+$
 where $max_k$ is the maximum value in $G^k_{rec}$.
 
 #### Citation
